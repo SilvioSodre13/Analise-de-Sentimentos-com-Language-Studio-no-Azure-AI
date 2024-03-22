@@ -22,6 +22,7 @@ O Speech Studio da Microsoft Azure é uma plataforma que oferece um conjunto de 
 O Language Studio é uma plataforma avançada de processamento de linguagem natural que oferece uma variedade de recursos poderosos para análise e geração de texto. Com o Language Studio, é possível realizar tarefas como análise de sentimentos, extração de entidades, classificação de texto, tradução automática, resumo de texto, geração de texto e muito mais. Essa ferramenta é amplamente utilizada em diversas áreas, como atendimento ao cliente, análise de mídias sociais, pesquisa de mercado, desenvolvimento de chatbots e assistentes virtuais, entre outras aplicações. O Language Studio proporciona uma maneira eficaz e eficiente de lidar com grandes volumes de texto, automatizando processos e fornecendo insights valiosos a partir da análise linguística.
 
 
+## O Lab consistiu basicamente na Análise de Sentimentos de algumas sentenças previamente criadas. Vejamos a seguir : 
 
 
            

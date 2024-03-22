@@ -24,5 +24,19 @@ O Language Studio é uma plataforma avançada de processamento de linguagem natu
 
 ## O Lab consistiu basicamente na Análise de Sentimentos de algumas sentenças previamente criadas. Vejamos a seguir : 
 
+   Abaixo as sentenças criadas para análise :
+
+   * Hoje não foi possível deslocar ao trabalho. Como é sexta-feira seguirei aqui de casa com minhas atividades o transito nesse dia da semana costuma ser horrivel. 
+
+ * Estou aqui acelerando os trabalhos do Bootcamp para entregar todas as atividades dentro do prazo previsto. Afinal, é importante seguir o cronograma e todas as entregas.
+
+ * Chegou a hora do almoço. Que maravilha ! Um dos melhores momentos do dia.
+    Deixa eu começar meu almoço e saciar a minha fome.
+
+
+
+## Segue as avaliações das sentenças no Language Studio 
+
+
 
            

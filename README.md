@@ -56,7 +56,7 @@ O Language Studio é uma plataforma avançada de processamento de linguagem natu
 
 <img src="Inputs/AlmocoSaida.png">
 
-<img src="Inputs/AlmocoSaida1.png">
+<img src="AlmocoSaida1.png">
 
 
 

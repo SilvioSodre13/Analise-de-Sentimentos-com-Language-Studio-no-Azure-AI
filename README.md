@@ -38,5 +38,24 @@ O Language Studio é uma plataforma avançada de processamento de linguagem natu
 ## Segue as avaliações das sentenças no Language Studio 
 
 
+<img src="Imagem_sentenca1.png">
+
+
+<img src="Resultado_Imagem_sentenca.png">
+
+<img src="Imagem_sentenca2.png">
+
+
+<img src="Bootcamp.png">
+
+<img src="Saida1Bootcamp.png">
+
+<img src="Saida2Bootcamp.png">
+
+
+
+
+
+
 
            
